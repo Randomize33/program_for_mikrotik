@@ -1,0 +1,2 @@
+ip firewall ip firewall filter add src-address=192.168.XX.1 action=accept chain=input
+ip firewall filter print
